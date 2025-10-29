@@ -1,4 +1,4 @@
-# 🌱 Planto
+# 🌱 Planto 
 ## Your Smart Plant Watering Reminder
 
 
