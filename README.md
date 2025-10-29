@@ -8,7 +8,7 @@ Planto is a native iOS application built with SwiftUI designed to help plant lov
 
 
 
-## Features
+## Features 🌻
 
 - Plant Management & Tracking 🌿
  
