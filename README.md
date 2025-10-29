@@ -1,5 +1,5 @@
 #  Planto 🌱 
-Your Smart Plant Watering Reminder
+Your Smart Plant Watering Reminder 🎍🌵
 
 
 ## Overview 🪴
