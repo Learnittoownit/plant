@@ -1,13 +1,13 @@
-# 🌱 Planto 
+#  Planto 🌱 
 Your Smart Plant Watering Reminder
 
 
-## 🌟 Overview
+## Overview
 
 Planto is a native iOS application built with SwiftUI designed to help plant lovers manage their indoor gardens effortlessly. It simplifies the often-complex task of plant care by providing a clean interface to track watering needs, light requirements, and room locations for all your plants, complete with local notifications for timely watering reminders.
 
 
-## ✨ Features
+## Features
 
 Customizable Plant Profiles: Easily add and edit new plant entries with details like name, room location, light requirements, and specific water amount/schedule.
 
@@ -23,7 +23,7 @@ Local Notifications: Schedules daily watering reminders for each plant to ensure
 
 Persistence: Uses UserDefaults to save all your plant data locally.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 Language: Swift 5+
 
