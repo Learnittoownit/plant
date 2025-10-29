@@ -10,19 +10,11 @@ Planto is a native iOS application built with SwiftUI designed to help plant lov
 
 ## Features
 
-- Customizable Plant Profiles.
+- 🌿 Plant Management & Tracking 🌿
+ 
+- ⏰ Automated Reminders ⏰
 
-- Intelligent Water Tracking.
-
-- Progress Dashboard: A visual progress bar on the main screen shows how many of your plants have been cared for today.
-
-- Empty State Management: Clear, engaging screens for when the plant list is empty or when all daily tasks are complete.
-
-- Swipe-to-Delete: Quickly delete plant entries using a horizontal swipe action.
-
-- Local Notifications: Schedules daily watering reminders for each plant to ensure nothing is missed.
-
-- Persistence: Uses UserDefaults to save all your plant data locally.
+- 📊 User Experience and Data Integrity 📊
 
 
 
